@@ -1,0 +1,3 @@
+---
+certbot_admin_email: 'kevin@calyxinstitute.org'
+certbot_output_dir: "/etc/letsencrypt/live/{{ inventory_hostname }}"
